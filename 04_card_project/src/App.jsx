@@ -159,16 +159,9 @@ const App = () => {
       <Cardd  brandLogo={elem.brandLogo} datePosted={elem.datePosted} company={elem.company} post={elem.post} tag1={elem.tag1} tag2={elem.tag2} pay={elem.pay} />
 
   </div>
-
-
-
 })}
-
-
-
-    </div>
-
-  )
+</div>
+)
 }
 
 
